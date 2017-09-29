@@ -16,4 +16,4 @@ sprite maps to import into my VHDL code.
 
 This project was completed over a 5 week period. 
 
-**NOTE: I did not write the sync.vdl code that is present in this repo, this was a 3rd party module that was given to me for the purpose            of this project.  
+NOTE: I did not write the sync.vdl code that is present in this repo, this was a 3rd party module that was given to me for the purpose            of this project.  
