@@ -1,3 +1,8 @@
+
+-- This code is a piece of IP given to me by GMIT for the use of academic study
+-- and to accelerate the design of my VHDL arcade game. 
+--
+-- I take no credit in the creation or design for the code present in this file.
 ----------------------------------------------------------------------------------
 -- Company: 
 -- Engineer: 
@@ -19,7 +24,7 @@
 ----------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------
 -- VGA Colour Cycle
--- Michelle, 2015
+-- 
 --
 -- 
 -- Horizontal synchronisation timing:
